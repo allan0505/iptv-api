@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-16 06:21:42,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td$订阅源
+2025-10-16 18:29:56,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td$订阅源
 
 📺央视频道,#genre#
 CCTV-5,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td$订阅源
@@ -58,21 +58,20 @@ CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140$订阅源
 山西卫视,http://zqh2333.top:2222/rtp/239.93.24.6:5140$订阅源
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8$订阅源
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8$订阅源
-四川卫视,http://60.16.0.216:5757/hls/30/index.m3u8$订阅源
-四川卫视,http://60.16.0.216:5757/hls/30/index.m3u8$订阅源
 四川卫视,http://116.128.242.83:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-深圳卫视,http://ygbh.site/php/bfgd.php?id=100$订阅源
-深圳卫视,http://ygbh.site/php/bfgd.php?id=100$订阅源
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8$订阅源
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8$订阅源
 深圳卫视,http://60.16.0.216:5757/hls/19/index.m3u8$订阅源
+深圳卫视,http://60.16.0.216:5757/hls/19/index.m3u8$订阅源
 深圳卫视,http://116.128.242.83:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-天津卫视,http://ygbh.site/php/bfgd.php?id=084$订阅源
+深圳卫视,http://ygbh.site/php/bfgd.php?id=100$订阅源
+深圳卫视,http://ygbh.site/php/bfgd.php?id=100$订阅源
 天津卫视,http://60.16.0.216:5757/hls/34/index.m3u8$订阅源
 天津卫视,http://116.128.242.83:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+天津卫视,http://ygbh.site/php/bfgd.php?id=084$订阅源
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8$订阅源
 西藏卫视,http://ygbh.site/php/bfgd.php?id=121$订阅源
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8$订阅源
-新疆卫视,http://ygbh.site/php/bfgd.php?id=150$订阅源
 新疆卫视,http://60.16.0.216:5757/hls/47/index.m3u8$订阅源
+新疆卫视,http://ygbh.site/php/bfgd.php?id=150$订阅源
 云南卫视,http://ygbh.site/php/bfgd.php?id=115$订阅源
