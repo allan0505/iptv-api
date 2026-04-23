@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-23 19:16:17,https://www.freetv.top/migu/673168121.m3u8?migutoken=3253222269368c440aa1d23dba86c186a7b73abdea3890faf72e3d720844f8f1d3adc2b18ed047dbb3eff1a6c5d9379fad37d1f8a380d0e7c69e9ad6eb41709cf92077125fc0bded4cfd47808b$订阅源
+2026-04-24 06:55:57,https://www.freetv.top/migu/673168121.m3u8?migutoken=3253222269368c440aa1d23dba86c186a7b73abdea3890faf72e3d720844f8f1d3adc2b18ed047dbb3eff1a6c5d9379fad37d1f8a380d0e7c69e9ad6eb41709cf92077125fc0bded4cfd47808b$订阅源
 
 📺央视频道,#genre#
 CCTV-7,https://www.freetv.top/migu/673168121.m3u8?migutoken=3253222269368c440aa1d23dba86c186a7b73abdea3890faf72e3d720844f8f1d3adc2b18ed047dbb3eff1a6c5d9379fad37d1f8a380d0e7c69e9ad6eb41709cf92077125fc0bded4cfd47808b$订阅源
@@ -17,8 +17,6 @@ CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695683994431259308.m3u8?a
 CCTV-14,https://www.freetv.top/migu/624878440.m3u8?migutoken=239edad94ac0bbff14f123c7f8996ed7639110bd6cf64ec8ba8cf85842224956d452ec8b683385cb27f8a7685224a03e3aa4d914b8fe33249da9df699351b105c795452d03f2be0a1f1e39adb0$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
-CCTV-14,https://v.iill.top/api/CCTV14/index.m3u8$订阅源
-CCTV-14,https://v.iill.top/api/CCTV14/index.m3u8$订阅源
 CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231494cabd07e5b49d965804790214280c9791e4c331fd90311cb62ea43d3a1899229bfa57be4afe5a567b32a6b78153fc9a9801e28a39435e078b48c211e71d6083519be4$订阅源
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
